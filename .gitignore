@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VSCode or JetBrains IDE files
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Testing
+*.coverage
+coverage.xml
+
+# FastAPI cache
+*.sqlite3
